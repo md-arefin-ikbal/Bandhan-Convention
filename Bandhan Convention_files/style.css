@@ -428,6 +428,10 @@ footer .btn-outline-light {
     padding-bottom: 8px;
     text-align: center;
 }
+.card .hdng{
+    color: #ffffff;
+
+}
 
 .card-description {
     font-weight: 600;
@@ -447,9 +451,5 @@ footer .btn-outline-light {
         width: 100%;
         border-radius: 10px;
         margin-top: 30px;
-    }
-    .py-5 {
-        padding-top: 0rem!important;
-        padding-bottom: 3rem!important;
     }
  }
