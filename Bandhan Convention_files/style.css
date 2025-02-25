@@ -386,6 +386,7 @@ footer .btn-outline-light {
 .bg-yellow-box,
 .bg-blue-box {
     position: relative;
+    height: 315px;
 }
 
 .bg-green-box::after,
@@ -452,5 +453,8 @@ footer .btn-outline-light {
         width: 100%;
         border-radius: 10px;
         margin-top: 30px;
+    }
+    .mb-3.date {
+        margin-right: -25px;
     }
  }
